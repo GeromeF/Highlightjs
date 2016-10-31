@@ -1,0 +1,16 @@
+{
+    "name": "netgasoline/highlight-js",
+    "description": "Use highlightjs, a syntax highlighter on your magento 2 frontend store.",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "autoload": {
+        "files": [ "registration.php" ],
+        "psr-4": {
+            "Netgasoline\\Highlightjs\\": ""
+        }
+    }
+}
