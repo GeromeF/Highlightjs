@@ -4,9 +4,9 @@ Use syntax highlighter highlight.js on your [Magento 2](http://magento.com/) Sto
 
 
 ## Demo ad install
- English : http://www.net-gasoline.com
+ English : http://www.net-gasoline.comen/magento-2/toolbox/highlight-js.html
  
- French : http://www.net-gasoline.com
+ French : http://www.net-gasoline.com/fr/magento-2/outils/highlight-js.html
  
 
 ## Requirements
